@@ -31,7 +31,7 @@ export interface BaseProps extends React.RefAttributes<any> {
  * such that properties that are part of the `Theme` will be transformed to
  * their corresponding values. Other valid CSS properties are also allowed.
  */
-export type SxStyleProp = SystemStyleObject &
+export type SxStyleProp = SystemStyleObject |
     Record<
         string,
         | SystemStyleObject
