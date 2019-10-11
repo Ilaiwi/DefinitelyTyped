@@ -6,6 +6,7 @@
 //                 sara f-p <https://github.com/gretzky>
 //                 angusfretwell <https://github.com/angusfretwell>
 //                 orzarchi <https://github.com/orzarchi>
+//                 ilaiwi <https://github.com/ilaiwi>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 3.1
 
